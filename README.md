@@ -1,3 +1,3 @@
 Demo Aplikasi
 
-![Teks alternatif](CPMK03.gif)
+![Teks alternatif](cpmk03.gif)
